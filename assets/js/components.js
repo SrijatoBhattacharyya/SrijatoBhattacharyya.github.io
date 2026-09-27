@@ -3,10 +3,9 @@
   const links = [
     ['home', 'index.html', 'Srijato Bhattacharyya'],
     ['research', 'research.html', 'Research'],
-    ['talks', 'talks.html', 'Talks'],
+    ['talks', 'talks.html', 'Talks and Awards'],
     ['teaching', 'teaching.html', 'Teaching'],
-    ['cv', 'cv.html', 'CV'],
-    ['personal', 'personal.html', 'Personal']
+    ['cv', 'cv.html', 'CV']
   ];
 
   const header = `
@@ -22,7 +21,7 @@
 
   const sidebar = `
     <aside class="sidebar">
-      <div class="avatar"><img src="assets/img/profile-placeholder.svg" alt="Profile placeholder for Srijato Bhattacharyya"></div>
+      <div class="avatar"><img src="assets/img/profile.jpg" alt="Srijato Bhattacharyya"></div>
       <div>
         <h2>Srijato Bhattacharyya</h2>
         <div class="role">Ph.D. Student in Statistics<br>Texas A&amp;M University</div>
@@ -30,15 +29,16 @@
       <ul class="meta">
         <li>📍 College Station, Texas</li>
         <li>✉️ <a href="mailto:srijato@tamu.edu">srijato@tamu.edu</a></li>
+        <li>🎓 <a href="https://scholar.google.com/citations?hl=en&view_op=search_authors&mauthors=Srijato+Bhattacharyya" target="_blank" rel="noopener">Google Scholar</a></li>
         <li>🏛️ <a href="https://artsci.tamu.edu/statistics/contact/profiles/srijato-bhattacharyya.html" target="_blank" rel="noopener">TAMU profile</a></li>
         <li>🔬 <a href="https://www.researchgate.net/profile/Srijato-Bhattacharyya" target="_blank" rel="noopener">ResearchGate</a></li>
         <li>💼 <a href="https://www.linkedin.com/in/srijato-bhattacharyya-44195b201" target="_blank" rel="noopener">LinkedIn</a></li>
+        <li>📄 <a href="files/Srijato_Bhattacharyya_CV.pdf" target="_blank" rel="noopener">CV</a></li>
       </ul>
-      <div class="sidebar-note"><strong>Replace the initials avatar</strong> with your preferred headshot by saving it as <code>assets/img/profile.jpg</code> and changing the image path in <code>assets/js/components.js</code>.</div>
     </aside>`;
 
   const footer = `
-    <footer class="footer"><div class="footer-inner">© 2026 Srijato Bhattacharyya. Built as a lightweight academic site for GitHub Pages.</div></footer>`;
+    <footer class="footer"><div class="footer-inner">© 2026 Srijato Bhattacharyya.</div></footer>`;
 
   const headerMount = document.getElementById('site-header');
   const sidebarMount = document.getElementById('site-sidebar');
