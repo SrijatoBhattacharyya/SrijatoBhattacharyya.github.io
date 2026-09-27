@@ -1,0 +1,4 @@
+Place your current CV in this folder and name it:
+Srijato_Bhattacharyya_CV.pdf
+
+Then follow the instructions in ../README.md or cv.html.
