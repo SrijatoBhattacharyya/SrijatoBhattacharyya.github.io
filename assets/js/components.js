@@ -30,8 +30,6 @@
         <li>📍 College Station, Texas</li>
         <li>✉️ <a href="mailto:srijato@tamu.edu">srijato@tamu.edu</a></li>
         <li>🎓 <a href="https://scholar.google.com/citations?hl=en&user=s-dhmSwAAAAJ" target="_blank" rel="noopener">Google Scholar</a></li>
-        <li>🏛️ <a href="https://artsci.tamu.edu/statistics/contact/profiles/srijato-bhattacharyya.html" target="_blank" rel="noopener">TAMU profile</a></li>
-        <li>🔬 <a href="https://www.researchgate.net/profile/Srijato-Bhattacharyya" target="_blank" rel="noopener">ResearchGate</a></li>
         <li>💼 <a href="https://www.linkedin.com/in/srijato-bhattacharyya-44195b201" target="_blank" rel="noopener">LinkedIn</a></li>
         <li>📄 <a href="files/Srijato_Bhattacharyya_CV.pdf" target="_blank" rel="noopener">CV</a></li>
       </ul>
