@@ -231,3 +231,6 @@ a:hover { color: var(--accent-dark); text-decoration: underline; }
   .interests { grid-template-columns: 1fr; }
   .timeline-row { grid-template-columns: 1fr; gap: 2px; }
 }
+
+/* Slightly larger profile name on the homepage */
+body[data-page="home"] .sidebar h2 { font-size: 1.48rem; }
