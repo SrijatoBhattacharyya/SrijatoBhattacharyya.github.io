@@ -42,6 +42,7 @@ a:hover { color: var(--accent-dark); text-decoration: underline; }
 }
 .brand {
   font-weight: 700;
+  font-size: 1.28rem;
   color: #222;
   letter-spacing: -.01em;
   white-space: nowrap;
@@ -233,4 +234,4 @@ a:hover { color: var(--accent-dark); text-decoration: underline; }
 }
 
 /* Slightly larger profile name on the homepage */
-body[data-page="home"] .sidebar h2 { font-size: 1.48rem; }
+body[data-page="home"] .sidebar h2 { font-size: 1.68rem; }
