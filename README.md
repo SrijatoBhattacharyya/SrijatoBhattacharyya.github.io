@@ -13,4 +13,3 @@ Assets:
 - `assets/img/profile.jpg` — profile photograph
 - `files/Srijato_Bhattacharyya_CV.pdf` — current CV
 
-The Personal page has been removed from the site navigation and is not included in this package.
