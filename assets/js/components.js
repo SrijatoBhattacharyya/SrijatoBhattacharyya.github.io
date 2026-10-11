@@ -7,7 +7,6 @@
     ['teaching', 'teaching.html', 'Teaching'],
     ['cv', 'cv.html', 'CV']
   ];
-
   const header = `
     <header class="site-header">
       <div class="header-inner">
@@ -18,7 +17,6 @@
         </nav>
       </div>
     </header>`;
-
   const sidebar = `
     <aside class="sidebar">
       <div class="avatar"><img src="assets/img/profile.jpg" alt="Srijato Bhattacharyya"></div>
@@ -31,10 +29,9 @@
         <li>✉️ <a href="mailto:srijato@tamu.edu">srijato@tamu.edu</a></li>
         <li>🎓 <a href="https://scholar.google.com/citations?hl=en&user=s-dhmSwAAAAJ" target="_blank" rel="noopener">Google Scholar</a></li>
         <li>💼 <a href="https://www.linkedin.com/in/srijato-bhattacharyya-44195b201" target="_blank" rel="noopener">LinkedIn</a></li>
-        <li>📄 <a href="files/Srijato_Bhattacharyya_CV.pdf" target="_blank" rel="noopener">CV</a></li>
+        <li>📄 <a href="files/Srijato_Bhattacharyya_CV_Oct2026.pdf" target="_blank" rel="noopener">CV</a></li>
       </ul>
     </aside>`;
-
   const footer = `
     <footer class="footer"><div class="footer-inner">© 2026 Srijato Bhattacharyya.</div></footer>`;
 
